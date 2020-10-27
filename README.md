@@ -1,2 +1,1 @@
-# matplotlib-homework
 Matplotlib Homework
